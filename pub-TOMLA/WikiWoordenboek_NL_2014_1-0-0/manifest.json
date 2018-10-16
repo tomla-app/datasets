@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Dictionary", "WikiWoordenboek Nederlands"], ["Dataset name", "WikiWoordenboek NL 2014", "Wiktionary export als CSV-bestand"], ["Version number", "1.0.0", "#"], ["Version date", "20180718", "Datum Wiktionary download: 20141030"], ["Author", "Wiktionary", "https://nl.wiktionary.org"], ["Publisher", "TOMLA", "Labels: taalcategori\u00ebn WikiWoordenboek"], ["Publisher short name", "TOMLA", "The Offline Multi-functional Language App"], ["Organisation", "TOMLA", "https://github.com/tomla-app"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "E-mail address publisher"], ["Content License", "CC-BY-SA", "Creative Commons licentie: https://creativecommons.org/licenses/by-sa/3.0/legalcode"]]
+}

@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Cheat sheet", "#"], ["Dataset name", "Test Spreadsheet Multiline Cells", "This is a NL-F-En multimedia cheat sheet to test multi-line datacells. For testing purposes only!"], ["Version number", "0.0.4", "Also intended to test the 2 TOMLA multimedia dataset types with multimedia files."], ["Version date", "20180722", "#"], ["Author", "TOMLA", "#"], ["Publisher", "TOMLA", "The Offline Multi-functional Language App"], ["Publisher short name", "TOMLA", "#"], ["Organisation", "TOMLA", "#"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "#"], ["Content License", "(C) TOMLA", "All rights reserved! This dataset is not for free reuse! For testing purposes only!"]]
+}

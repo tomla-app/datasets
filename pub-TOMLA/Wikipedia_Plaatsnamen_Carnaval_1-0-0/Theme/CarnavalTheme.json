@@ -1,0 +1,37 @@
+{
+  "name": "Carnaval thema",
+
+  "abBackgroundColor": "",
+  "abBackgroundImage": "",
+  "abTintColor":"",
+
+  "toggleCheckedBackgroundColor":"",
+  "toggleCheckedColor": "",
+
+  "alertButtonColor":"",
+
+  "listTextColor":"",
+  "listIconColor":"",
+
+  "btnBackgroundColor": "",
+  "btnTintColor": "",
+
+  "splashscreenImage":"",
+
+  "itemLabelColor": "",
+
+  "radioActiveColor":"",
+  "radioColor" : "",
+
+  "checkboxActiveBackgroundColor": "",
+  "checkboxActiveBorderColor" : "",
+  "checkboxBorderColor": "",
+
+  "contentBackgroundColor": "",
+  "contentItemBackgroundColor": "",
+
+  "cardBackgroundColor": "",
+
+  "menuItemBackgroundColor": "",
+  "swipesActiveIndicator": ""
+}

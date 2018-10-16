@@ -1,0 +1,56 @@
+{
+"List":[
+{
+"manifest_json":[783],
+"dataset_json":[6176]
+}
+,
+{
+"Folder_name":["Audio-G-Nederlands"],
+"Folder_size":[707225],
+"File_list":["acht.mp3", "alstublieft.mp3", "dinsdag.mp3", "donderdag.mp3", "drie.mp3", "duizend.mp3", "een.mp3", "een_miljoen.mp3", "hallo_dag.mp3", "honderd.mp3", "honderdduizend.mp3", "maandag.mp3", "negen.mp3", "nul.mp3", "tien.mp3", "twee.mp3", "vier.mp3", "vijf.mp3", "vrijdag.mp3", "woensdag.mp3", "zaterdag.mp3", "zes.mp3", "zeven.mp3", "zondag.mp3"]
+}
+,
+{
+"Folder_name":["Audio-M-Nederlands"],
+"Folder_size":[198405],
+"File_list":["alstublieft.mp3", "hallo_dag.mp3", "honderdduizend.mp3", "vier.mp3", "woensdag.mp3", "zondag.mp3"]
+}
+,
+{
+"Folder_name":["Audio-G-Frans"],
+"Folder_size":[616095],
+"File_list":["bonjour.mp3", "cent.mp3", "cent_mille.mp3", "cinq.mp3", "deux.mp3", "dimanche.mp3", "dix.mp3", "huit.mp3", "jeudi.mp3", "lundi.mp3", "mardi.mp3", "mercredi.mp3", "mille.mp3", "neuf.mp3", "quatre.mp3", "samedi.mp3", "sept.mp3", "six.mp3", "trois.mp3", "un.mp3", "un_million.mp3", "vendredi.mp3", "voila.mp3", "zero.mp3"]
+}
+,
+{
+"Folder_name":["Audio-M-Frans"],
+"Folder_size":[161982],
+"File_list":["bonjour.mp3", "cent_mille.mp3", "lundi.mp3", "quatre.mp3", "vendredi.mp3", "voila.mp3"]
+}
+,
+{
+"Folder_name":["Audio-F-Frans"],
+"Folder_size":[166266],
+"File_list":["bonjour.mp3", "cent_mille.mp3", "dimanche.mp3", "mercredi.mp3", "quatre.mp3", "voila.mp3"]
+}
+,
+{
+"Folder_name":["Audio-M-Engels"],
+"Folder_size":[736055],
+"File_list":["a_million.mp3", "agreed_fine.mp3", "eight.mp3", "five.mp3", "four.mp3", "friday.mp3", "good_evening.mp3", "have_a_safe_trip.mp3", "hello.mp3", "here_you_are.mp3", "hundred.mp3", "hundred_thousand.mp3", "monday.mp3", "nine.mp3", "one.mp3", "saturday.mp3", "seven.mp3", "six.mp3", "sunday.mp3", "ten.mp3", "thank_you.mp3", "thanks.mp3", "The_days_of_the_week_in_French.mp3", "thousand.mp3", "three.mp3", "thursday.mp3", "tuesday.mp3", "two.mp3", "wednesday.mp3", "zero.mp3"]
+}
+,
+{
+"Folder_name":["Images"],
+"Folder_size":[230883],
+"File_list":["bonjour_1_chalkboard.jpg", "bonjour_2_yellow_cup_of_coffee.jpeg", "les_jours_de_la_semaine.jpg", "les_jours_de_la_semaine_en_francais.jpg", "les_nombres_1_les_nombres_1_a_10.png", "les_nombres_2_adjectifs_numeraux.jpg", "les_nombres_3_les_nombres_cardinaux.jpg", "voila_1.png", "voila_2_et_voila.png"]
+}
+,
+{
+"Folder_name":["Videos"],
+"Folder_size":[84986695],
+"File_list":["20150716_42_Vaardag_Passage_F802_op_40m_Boeggolf_12s_MVI_6964.mp4", "20150716_59_Vaardag_Fly_By_2_F16_straaljagers_na_schieten_op_de_Vliehors_6s_MVI_6999.mp4", "20170524_02_VW20_Apache_Helicopter_1_6s_MVI_8760.mp4"]
+}
+]
+}
