@@ -10,10 +10,10 @@
 ,
 {
 "publisher_folder_name":["pub-TOMLA"],
-"dataset_folder_name":["Test_Spreadsheet_Multiline_Cells_0-10-7"],
+"dataset_folder_name":["Test_Spreadsheet_Multiline_Cells_0-10-8"],
 "sheet_name":["Manifest"],
 "col_name_list":["Name metadata field", "Value", "Notes"],
-"row_list":[["Dataset type", "Cheat sheet", "#"], ["Dataset name", "Test Spreadsheet Multiline Cells", "This is a NL-F-En multimedia cheat sheet to test multi-line datacells. For testing purposes only!"], ["Version number", "0-10-7", "Also intended to test the 2 TOMLA multimedia dataset types with multimedia files."], ["Version date", "20180722", "#"], ["Author", "TOMLA", "#"], ["Publisher", "TOMLA", "The Offline Multi-functional Language App"], ["Publisher short name", "TOMLA", "#"], ["Organisation", "TOMLA", "#"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "#"], ["Content License", "(C) TOMLA", "All rights reserved! This dataset is not for free reuse! For testing purposes only!"]]
+"row_list":[["Dataset type", "Cheat sheet", "#"], ["Dataset name", "Test Spreadsheet Multiline Cells", "This is a NL-F-En multimedia cheat sheet to test multi-line datacells. For testing purposes only!"], ["Version number", "0-10-8", "Also intended to test the 2 TOMLA multimedia dataset types with multimedia files."], ["Version date", "20180722", "#"], ["Author", "TOMLA", "#"], ["Publisher", "TOMLA", "The Offline Multi-functional Language App"], ["Publisher short name", "TOMLA", "#"], ["Organisation", "TOMLA", "#"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "#"], ["Content License", "(C) TOMLA", "All rights reserved! This dataset is not for free reuse! For testing purposes only!"]]
 }
 ,
 {
