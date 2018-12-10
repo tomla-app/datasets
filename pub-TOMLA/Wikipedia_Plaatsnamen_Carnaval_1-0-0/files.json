@@ -3,11 +3,6 @@
 {
 "manifest_json":[870],
 "dataset_json":[33327]
-},
-  {
-    "Folder_name":["Theme"],
-    "Folder_size":[663],
-    "File_list":["CarnavalTheme.json"]
-  }
+}
 ]
 }
