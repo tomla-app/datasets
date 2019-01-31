@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Weblinks", "#"], ["Dataset name", "Online Language Weblinks", "#"], ["Dataset description", "Start page \u2013 Language Websites", "Weblinks to online language resources as an example dataset for the TOMLA Weblinks menu."], ["Version number", "1.0.8", "#"], ["Version date", "20190131", "#"], ["Organisation", "TOMLA", "#"], ["Website", "https://github.com/tomla-app", "#"], ["Author", "TOMLA", "#"], ["Publisher", "TOMLA", "#"], ["Publisher short name", "TOMLA", "#"], ["Publisher e-mail", "tomla(dot)app(at)gmail(dot)com", "Allow for 2 weeks to respond!"], ["Content license", "Creative Commons - CC-BY-SA", "https://creativecommons.org/licenses/by-sa/3.0/deed.nl"], ["Download key", "No", "#"], ["Trailer video file name", "#", "#"], ["Trailer video weblink", "#", "#"]]
+}

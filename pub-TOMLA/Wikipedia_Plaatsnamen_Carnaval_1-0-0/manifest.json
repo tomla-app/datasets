@@ -1,5 +1,0 @@
-{
-"sheet_name":["Manifest"],
-"col_name_list":["Name metadata field", "Value", "Notes"],
-"row_list":[["Dataset type", "Cheat sheet", "This is an example dataset for TOMLA with Open Content from Wikipedia."], ["Dataset name", "Wikipedia Plaatsnamen Carnaval", "A long list of official Dutch place names of villages and cities and their alias names  during carnival."], ["Version number", "1.0.0", "#"], ["Version date", "20180518", "#"], ["Author", "Wikipedia", "https://nl.wikipedia.org/wiki/Lijst_van_alternatieve_Nederlandse_plaatsnamen_tijdens_carnaval"], ["Publisher", "TOMLA", "#"], ["Publisher short name", "TOMLA", "The Offline Multi-functional Language App"], ["Organisation", "TOMLA", "#"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "#"], ["Content License", "CC-By-SA", "Creative Commons licentie: https://creativecommons.org/licenses/by-sa/3.0/deed.nl"]]
-}

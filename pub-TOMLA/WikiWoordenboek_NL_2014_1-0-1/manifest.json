@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Dictionary", "#"], ["Dataset name", "WikiWoordenboek NL 2014", "WikiWoordenboek Nederlands 2014"], ["Dataset description", "Wiki Dictionary Dutch", "Dutch words and their meaning as Open Content CSV export file from Wiktionary."], ["Version number", "1.0.1", "#"], ["Version date", "20180718", "Wiktionary download: 20141030"], ["Organisation", "TOMLA", "The Offline Multi-functional Language App"], ["Website", "https://github.com/tomla-app", "#"], ["Author", "Wiktionary", "https://nl.wiktionary.org"], ["Publisher", "TOMLA", "Labels: taalcategori\u00ebn WikiWoordenboek"], ["Publisher short name", "TOMLA", "The Offline Multi-functional Language App"], ["Publisher e-mail", "tomla(dot)app(at)gmail(dot)com", "Allow for 2 weeks to respond!"], ["Content license", "Creative Commons \u2013 CC-BY-SA", "https://creativecommons.org/licenses/by-sa/3.0/legalcode"], ["Download key", "No", "#"], ["Trailer video file name", "#", "#"], ["Trailer video weblink", "#", "#"]]
+}

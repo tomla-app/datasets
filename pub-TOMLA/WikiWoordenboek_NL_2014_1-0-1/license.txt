@@ -1,0 +1,72 @@
+TERMS AND CONDITIONS FOR ACCESSING OR OTHERWISE USING TOMLA DATASETS
+====================================================================
+DATASET INFORMATION
+-------------------
+Dataset type       : Dictionary
+Dataset name       : WikiWoordenboek NL 2014
+
+Dataset description: Wiki Dictionary Dutch
+Note               : Dutch words and their meaning as Open Content CSV export file from Wiktionary.
+
+Version number     : 1.0.1
+Version date       : 20180718
+
+Organisation       : TOMLA
+Note               : The Offline Multi-functional Language App
+Website            : https://github.com/tomla-app
+
+Author             : Wiktionary
+Note               : https://nl.wiktionary.org
+
+Publisher          : TOMLA
+Publisher e-mail   : tomla(dot)app(at)gmail(dot)com
+--------------------------------------------------------------------
+ACCESS AND (RE)USE
+------------------
+Access to and (re)use of datasets for the TOMLA mobile app is only
+allowed under the conditions of the content license of this dataset!
+--------------------------------------------------------------------
+CONTENT LICENSE
+----------------
+Content license: Creative Commons – CC-BY-SA
+Note           : https://creativecommons.org/licenses/by-sa/3.0/legalcode
+--------------------------------------------------------------------
+DOWNLOAD KEY
+------------
+Download key: No
+Note        : #
+------------
+A publisher can limit customer access to a dataset for a user(group)
+by adding a download key as authorisation key on a TOMLA webserver.
+
+Get a download key from the publisher if this value is 'Yes' and
+follow the publishers instruction for use of the key in TOMLA.
+--------------------------------------------------------------------
+LICENSE RESTRICTIONS
+--------------------
+It is not allowed to (re)use datasets with a copyright notice, like:
+(c) Name_Copyright_Owner, All Rights Reserved
+Contact the publisher to see if (re)use permission is possible.
+
+Open Content Licenses like Creative Commons allow varying degrees
+of (re)use so check the permissions!
+--------------------------------------------------------------------
+ACCESS RESTRICTIONS
+-------------------
+Access to datasets in the TOMLA application folder is prohibited!
+
+Access to datasets on download websites other than by using the
+TOMLA app is prohibited if you are not the legal dataset publisher!
+
+Access to datasets protected with a download key is prohibited if
+the download key was not provided to you by the publisher.
+
+In all cases: contact the publiser to get a dataset or download key!
+--------------------------------------------------------------------
+DISCLAIMER
+----------
+The use of the TOMLA mobile app, the use of websites for TOMLA for
+datasets, apps, source code, documentation or other downloads
+as well as the use of datasets in TOMLA or dataset (re)use otherwise
+is completely at your own risk and at your own resposibility.
+====================================================================
