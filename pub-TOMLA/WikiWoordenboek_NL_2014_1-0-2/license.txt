@@ -2,21 +2,21 @@ TERMS AND CONDITIONS FOR ACCESSING OR OTHERWISE USING TOMLA DATASETS
 ====================================================================
 DATASET INFORMATION
 -------------------
-Dataset type       : Spellcheck list
-Dataset name       : Basiswoordenlijst 2011
+Dataset type       : Dictionary
+Dataset name       : WikiWoordenboek NL 2014
 
-Dataset description: Spellingswoordenlijst Stichting OpenTaal
-Note               : Overheidsgoedkeuring: Keurmerk Spelling van de TaalUnie als uitgave: Editie zomer 2011
+Dataset description: Wiki Dictionary Dutch
+Note               : Dutch words and their meaning as Open Content CSV export file from Wiktionary.
 
-Version number     : 1.0.1
-Version date       : 20190125
+Version number     : 1.0.2
+Version date       : 20190808
 
-Organisation       : Stichting OpenTaal
-Note               : #
-Website            : https://www.opentaal.org
+Organisation       : TOMLA
+Note               : The Offline Multi-functional Language App
+Website            : https://github.com/tomla-app
 
-Author             : Stichting OpenTaal
-Note               : https://www.opentaal.org/bestanden/file/2-woordenlijst-v-2-10g-bronbestanden
+Author             : Wiktionary
+Note               : https://nl.wiktionary.org
 
 Publisher          : TOMLA
 Publisher e-mail   : tomla(dot)app(at)gmail(dot)com
@@ -28,8 +28,8 @@ allowed under the conditions of the content license of this dataset!
 --------------------------------------------------------------------
 CONTENT LICENSE
 ----------------
-Content license: Creative Commons – CC-BY
-Note           : https://creativecommons.org/licenses/by/3.0/legalcode
+Content license: Creative Commons – CC-BY-SA
+Note           : https://creativecommons.org/licenses/by-sa/3.0/legalcode
 --------------------------------------------------------------------
 DOWNLOAD KEY
 ------------

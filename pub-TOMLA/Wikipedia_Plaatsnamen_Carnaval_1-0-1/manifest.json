@@ -1,5 +1,0 @@
-{
-"sheet_name":["Manifest"],
-"col_name_list":["Name metadata field", "Value", "Notes"],
-"row_list":[["Dataset type", "Cheat sheet", "#"], ["Dataset name", "Wikipedia Plaatsnamen Carnaval", "#"], ["Dataset description", "Carnival aliases for many Dutch towns", "A long list of official Dutch place names of villages and cities and their alias names  during carnival.\nThis is an example dataset for TOMLA with Open Content from Wikipedia."], ["Version number", "1.0.1", "#"], ["Version date", "20190115", "#"], ["Organisation", "TOMLA", "The Offline Multi-functional Language App"], ["Website", "https://github.com/tomla-app", "#"], ["Author", "Wikipedia", "https://nl.wikipedia.org/wiki/Lijst_van_alternatieve_Nederlandse_plaatsnamen_tijdens_carnaval"], ["Publisher", "TOMLA", "#"], ["Publisher short name", "TOMLA", "#"], ["Publisher e-mail", "tomla(dot)app(at)gmail(dot)com", "Allow for 2 weeks to respond!"], ["Content license", "Creative Commons \u2013 CC-BY-SA", "https://creativecommons.org/licenses/by-sa/3.0/deed.nl"], ["Download key", "No", "#"], ["Trailer video file name", "#", "#"], ["Trailer video weblink", "#", "#"]]
-}

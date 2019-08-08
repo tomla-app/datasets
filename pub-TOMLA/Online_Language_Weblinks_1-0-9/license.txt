@@ -2,22 +2,21 @@ TERMS AND CONDITIONS FOR ACCESSING OR OTHERWISE USING TOMLA DATASETS
 ====================================================================
 DATASET INFORMATION
 -------------------
-Dataset type       : Cheat sheet
-Dataset name       : Wikipedia Plaatsnamen Carnaval Download Key
+Dataset type       : Weblinks
+Dataset name       : Online Language Weblinks
 
-Dataset description: Carnival aliases for many Dutch towns
-Note               : A long list of official Dutch place names of villages and cities and their alias names  during carnival.
-This is an example dataset for TOMLA with Open Content from Wikipedia.
+Dataset description: Start page – Language Websites
+Note               : Weblinks to online language resources as an example dataset for the TOMLA Weblinks menu.
 
-Version number     : 1.0.1
-Version date       : 20190115
+Version number     : 1.0.9
+Version date       : 20190808
 
 Organisation       : TOMLA
-Note               : The Offline Multi-functional Language App
+Note               : #
 Website            : https://github.com/tomla-app
 
-Author             : Wikipedia
-Note               : https://nl.wikipedia.org/wiki/Lijst_van_alternatieve_Nederlandse_plaatsnamen_tijdens_carnaval
+Author             : TOMLA
+Note               : #
 
 Publisher          : TOMLA
 Publisher e-mail   : tomla(dot)app(at)gmail(dot)com
@@ -29,12 +28,12 @@ allowed under the conditions of the content license of this dataset!
 --------------------------------------------------------------------
 CONTENT LICENSE
 ----------------
-Content license: Creative Commons – CC-BY-SA
+Content license: Creative Commons - CC-BY-SA
 Note           : https://creativecommons.org/licenses/by-sa/3.0/deed.nl
 --------------------------------------------------------------------
 DOWNLOAD KEY
 ------------
-Download key: Yes
+Download key: No
 Note        : #
 ------------
 A publisher can limit customer access to a dataset for a user(group)

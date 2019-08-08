@@ -2,17 +2,17 @@ TERMS AND CONDITIONS FOR ACCESSING OR OTHERWISE USING TOMLA DATASETS
 ====================================================================
 DATASET INFORMATION
 -------------------
-Dataset type       : Weblinks
-Dataset name       : Online Language Weblinks
+Dataset type       : Cheat sheet
+Dataset name       : TOMLA Demo Cheat Sheet
 
-Dataset description: Start page – Language Websites
-Note               : Weblinks to online language resources as an example dataset for the TOMLA Weblinks menu.
+Dataset description: Dataset for testing purposes only!
+Note               : This is a NL-F-En multimedia cheat sheet to test multi-line datacells and most TOMLA functionality.
 
-Version number     : 1.0.8
-Version date       : 20190131
+Version number     : 0.9.2
+Version date       : 20190808
 
 Organisation       : TOMLA
-Note               : #
+Note               : The Offline Multi-functional Language App
 Website            : https://github.com/tomla-app
 
 Author             : TOMLA
@@ -28,13 +28,17 @@ allowed under the conditions of the content license of this dataset!
 --------------------------------------------------------------------
 CONTENT LICENSE
 ----------------
-Content license: Creative Commons - CC-BY-SA
-Note           : https://creativecommons.org/licenses/by-sa/3.0/deed.nl
+Content license: (C) TOMLA
+Note           : All rights reserved! This dataset is not intended for free reuse! For TOMLA testing purposes only!
 --------------------------------------------------------------------
 DOWNLOAD KEY
 ------------
 Download key: No
-Note        : #
+Note        : No = No download key from publisher required; Yes = User needs download key from publisher.
+When set to Yes the download website will check for a valid download key in the dataset weblink.
+This means with ‘Yes’ the dataset download is protected so the publisher can control the use.
+Ask the Publisher for a download key for manual input in TOMLA or for a weblink with the key in it.
+The weblink can be provided by the Publisher as a user friendly QR-code for fast input in TOMLA.
 ------------
 A publisher can limit customer access to a dataset for a user(group)
 by adding a download key as authorisation key on a TOMLA webserver.
